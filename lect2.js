@@ -21,7 +21,7 @@
     // console.log(square);
     // filter
     const name=["england,finland,india"];
-    const land = name.filter((country) =>country.end)
+    const land = name.filter((country) =>country.enk)
     
 
 
