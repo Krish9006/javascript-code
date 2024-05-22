@@ -35,7 +35,7 @@
 
 //     });console.log(sum);
 // sort
-const arr= ["awadh","dev","krish"];
+const arr= ["awadh","dev","krishna"];
 console.log(arr.sort());
 
 
