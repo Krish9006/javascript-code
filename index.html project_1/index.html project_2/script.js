@@ -16,7 +16,7 @@
       const taskitem=document.createElement("li");
       taskitem.textContent = taskText;
       const deletebutton =document.createElement("button");
-      deletebutton.textContent= "Delete";
+      deletebutton.textContent= "Deletes";
          
 
 } 
